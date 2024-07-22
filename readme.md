@@ -68,7 +68,3 @@ Run the `ProjectTests.java` file using JUnit to perform comprehensive testing. T
 - **Comparator:** Modify or create new comparator classes to change prioritization criteria.
 - **Heap Type:** Switch between max heap and min heap by changing the `isMaxHeap` flag in `AppMain.java`.
 - **Input:** Adapt the `TriageSystemParser` to read from different input formats or sources.
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests with improvements, bug fixes, or additional features. Please ensure that your contributions are well-tested and adhere to the project's coding style.
